@@ -15,7 +15,7 @@ public class SalesforceTest {
         String getTokenUrl = "https://login.salesforce.com/services/oauth2/token";
         String grant_type = "password";
         String username = "daviddemo2@163.com";
-        String password = "CanonNikon123z1ssMvtJjn7sMqM5l0IWJ5bv";
+        String password = "";
         String client_id = "3MVG9d8..z.hDcPKr_.DMFFAtQyqhYunDq.kNex9foBdqnsaKX9JUqlenPBDKlnrL2qRGQwoohNhtLRJuK.Yn";
         String client_secret = "5199409257295918746";
 
